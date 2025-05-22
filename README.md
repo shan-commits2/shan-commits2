@@ -11,10 +11,8 @@
  
  🌱 I’m currently learning **C++, CS, LUA**
 
-  <a href="mailto: noobgokf@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://discord.com/users/1010135761322000434"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="https://ko-fi.com/lysakrysa"><img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
-  <a href="https://ko-fi.com/lysakrysa"><img src="https://img.shields.io/static/v1?message=Buy a coffe&logo=ko-fi&label&color=ffffff&logoColor=red&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo" />
+  <a href="mailto: shanlim1520@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://discord.com/users/1306170532365865003"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   
 
 
