@@ -68,9 +68,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LysaKrysa&theme=blueberry&show_icons=true&hide_border=false&count_private=false" height="135" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LysaKrysa&theme=blueberry&hide_border=false" height="135" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LysaKrysa&theme=blueberry&show_icons=true&hide_border=false&layout=compact" height="135" alt="language graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shan-commits2&theme=blueberry&show_icons=true&hide_border=false&count_private=false" height="135" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shan-commits2&theme=blueberry&hide_border=false" height="135" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shan-commits2&theme=blueberry&show_icons=true&hide_border=false&layout=compact" height="135" alt="language graph" />
 </div>
 
 <br clear="both">
